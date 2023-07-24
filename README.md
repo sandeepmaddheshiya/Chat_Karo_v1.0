@@ -61,7 +61,8 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2023-07-24 081145](https://github.com/sandeepmaddheshiya/Chat_Karo_v1.0/assets/113048079/8dbd5b2d-5b80-47b3-a1e7-04d2cee05de6)
+
 
 
 ## Authors
