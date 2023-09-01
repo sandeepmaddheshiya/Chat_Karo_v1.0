@@ -74,7 +74,7 @@ https://www.linkedin.com/posts/sandeepmaddheshiya_chatkaro-flutter-firebase-acti
 
 ## Feedback
 
-If you have any feedback, please reach out to us at sandeep.maddheshiyacs20@gmail.com
+If you have any feedback, please reach out to us at sandeep.maddheshiyacs20@smslucknow.ac.in
 
 
 # Hi, I'm Sandeep Maddheshiya! 👋
